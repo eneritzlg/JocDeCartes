@@ -13,4 +13,5 @@ export class JugadorComponent {
   @Input() posicio: any;
 
   constructor() {}
+
 }
